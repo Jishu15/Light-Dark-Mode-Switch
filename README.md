@@ -20,7 +20,7 @@ To install the toggle switch, simply download the files and add them to your web
 
 ## Usage
 To use the toggle switch, simply click on it to switch between light and dark mode. Also if you want to clone this repository, copy the following code and paste it into the VS Code terminal:
-```git clone ```
+```git clone https://github.com/Jishu15/Light-Dark-Mode-Switch.git```
 
 
 I hope this helps! Let me know if you have any other questions.
