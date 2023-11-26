@@ -24,4 +24,5 @@ To use the toggle switch, simply click on it to switch between light and dark mo
 ```git clone https://github.com/Jishu15/Light-Dark-Mode-Switch.git```
 
 
+
 I hope this helps! Let me know if you have any other questions.
